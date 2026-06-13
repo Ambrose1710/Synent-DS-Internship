@@ -3,20 +3,11 @@ This repository contains my project tasks for the Synent Data Science Internship
 
 ## Tasks Completed
 
-|
 Task
 |
 Description
 |
 Link
-|
-|
-------
-|
--------
-|
--------------
-|
 ------
 |
 |
